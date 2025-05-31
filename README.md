@@ -1,2 +1,2 @@
-# gemini-scapper
+# AI-scapper
 gemini scrapper site
